@@ -1,6 +1,6 @@
-# Hugo GitHub Issue #XXX
+# Hugo GitHub Issue #11221
 
-Details: <https://github.com/gohugoio/hugo/issues/XXX>
+Details: <https://github.com/gohugoio/hugo/issues/11221>
 
 Description: `hugo mod` does not copy hugo.toml to _vendor
 
