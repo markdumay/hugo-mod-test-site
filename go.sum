@@ -1,0 +1,8 @@
+github.com/markdumay/hugo-mod-issue-config v0.0.0-20230708053027-55eb0c5b2796 h1:sww/YbuRqFgm9InKHuGoIWFghlUTeAK73954mI+8Iuo=
+github.com/markdumay/hugo-mod-issue-config v0.0.0-20230708053027-55eb0c5b2796/go.mod h1:IjMNl26yXLw3fAqHdLr+583UgwnmFzw74YZXzR5X494=
+github.com/markdumay/hugo-mod-issue-config v1.0.0 h1:AJjoOxUrs8n25fTbhx2xi6Uh7aqRM8BQzcJ9vGOP1ig=
+github.com/markdumay/hugo-mod-issue-config v1.0.0/go.mod h1:IjMNl26yXLw3fAqHdLr+583UgwnmFzw74YZXzR5X494=
+github.com/markdumay/hugo-mod-issue-hugo v0.0.0-20230708054531-d0950f10e75d h1:RK5stAEjjcSxWl3WFXU1qGo2GI+gkDkYdMXiw+EjJcw=
+github.com/markdumay/hugo-mod-issue-hugo v0.0.0-20230708054531-d0950f10e75d/go.mod h1:5pGQbBch6VxsLFuEHGtI6K21PTK0TIIYNM3iFQHPvFk=
+github.com/markdumay/hugo-mod-issue-hugo v1.0.0 h1:EmI9/MLNEdvL9I9dcXcTqlmHak81ag97nYbz/bk81DE=
+github.com/markdumay/hugo-mod-issue-hugo v1.0.0/go.mod h1:5pGQbBch6VxsLFuEHGtI6K21PTK0TIIYNM3iFQHPvFk=
